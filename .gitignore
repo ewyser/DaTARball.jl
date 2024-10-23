@@ -1,1 +1,8 @@
-/Manifest.toml
+
+dump/
+
+.DS_Store
+
+docs/build/
+
+*.h5
